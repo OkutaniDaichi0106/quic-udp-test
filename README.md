@@ -1,4 +1,7 @@
-# how to test
+# quic-udp-test
+test the quic with udp connection 
+
+## how to test
 
 1. Generate a certification file by running `mkcert localhost` in the directory where the server.go is located.
 
